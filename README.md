@@ -1,16 +1,13 @@
 # ArnoldC
 
-Programming language based on the one-liners of Arnold Schwarzenegger.
+Programmiersprache basierend auf VongSprech
 
-## Motivation
+## HelloWorld.vong
 
-Although the one-liners of Arnold Schwarzenegger are fairly well known the true semantics of the uttering is yet to be understood. This project tries to discover new meanings from the Arnold movies with the means of computer science.
+	I BIMS
+	RED MIT DEM KOMPUTER "HALLO WELT" 
+	I BIMS NIMMER
 
-## HelloWorld.arnoldc
-
-	IT'S SHOWTIME
-	TALK TO THE HAND "hello world"
-	YOU HAVE BEEN TERMINATED
 
 ## Quick Start
 
@@ -27,68 +24,68 @@ To create some "audible" output you can try the -declaim option:
 
 Check the [wiki](http://github.com/lhartikk/ArnoldC/wiki/ArnoldC) for more details
 
-[False](http://www.youtube.com/watch?v=_wk-jT9rn-8) `I LIED`
+[False](http://www.youtube.com/watch?v=_wk-jT9rn-8) `NED RICHTIG`
 
-[True](http://www.youtube.com/watch?v=CtNb1dnEaSQ) `NO PROBLEMO`
+[True](http://www.youtube.com/watch?v=CtNb1dnEaSQ) `TRU THAT`
 
-[If](http://www.youtube.com/watch?v=MiB7GLyvvJQ) `BECAUSE I'M GOING TO SAY PLEASE`
+[If](http://www.youtube.com/watch?v=MiB7GLyvvJQ) `WENG`
 
-[Else](http://www.youtube.com/watch?v=c4psKYpfnYs) `BULLSHIT`
+[Else](http://www.youtube.com/watch?v=c4psKYpfnYs) `SONST`
 
-[EndIf](http://youtu.be/uGstM8QMCjQ?t=1m23s) `YOU HAVE NO RESPECT FOR LOGIC`
+[EndIf](http://youtu.be/uGstM8QMCjQ?t=1m23s) `STOP`
 
-[While](http://www.youtube.com/watch?v=wDztrw_0N8M) `STICK AROUND`
+[While](http://www.youtube.com/watch?v=wDztrw_0N8M) `I LAUF SO LANGE WIE`
 
-[EndWhile](http://www.youtube.com/watch?v=R39e30FL37U) `CHILL`
+[EndWhile](http://www.youtube.com/watch?v=R39e30FL37U) `JETZT STOP I`
 
-PlusOperator `GET UP`
+PlusOperator `SCHENK EIN`
 
-[MinusOperator](http://www.youtube.com/watch?v=7Ox0Ehq-FRQ) `GET DOWN`
+[MinusOperator](http://www.youtube.com/watch?v=7Ox0Ehq-FRQ) `SAUF AUS`
 
-[MultiplicationOperator](http://www.youtube.com/watch?v=lf3Kyv_iaNs) `YOU'RE FIRED`
+[MultiplicationOperator](http://www.youtube.com/watch?v=lf3Kyv_iaNs) `DOUBLE TIME`
 
-[DivisionOperator](http://www.youtube.com/watch?v=9VHtuqXZQeo) `HE HAD TO SPLIT`
+[DivisionOperator](http://www.youtube.com/watch?v=9VHtuqXZQeo) `DURCH`
 
-[ModuloOperator](http://www.youtube.com/watch?v=ybJWKZB0Erk&feature=youtu.be&t=6m59s)  `I LET HIM GO`
+[ModuloOperator](http://www.youtube.com/watch?v=ybJWKZB0Erk&feature=youtu.be&t=6m59s)  `I HAN KEINS AHNUNG WIE MAN DSA HERNIMMT`
 
-[EqualTo](http://www.youtube.com/watch?v=A1-wUV0-_JY) `YOU ARE NOT YOU YOU ARE ME`
+[EqualTo](http://www.youtube.com/watch?v=A1-wUV0-_JY) `GLEICH VONG STYLE`
 
-[GreaterThan](http://www.youtube.com/watch?v=19R2fDXCzcM) `LET OFF SOME STEAM BENNET`
+[GreaterThan](http://www.youtube.com/watch?v=19R2fDXCzcM) `GRÖSER VONG STYLE`
 
-[Or](http://www.youtube.com/watch?v=RYtQMhnBtTw) `CONSIDER THAT A DIVORCE`
+[Or](http://www.youtube.com/watch?v=RYtQMhnBtTw) `ODA`
 
-[And](http://www.youtube.com/watch?v=ZQ_Q2b_aXjk) `KNOCK KNOCK`
+[And](http://www.youtube.com/watch?v=ZQ_Q2b_aXjk) `BEIDES`
 
-[DeclareMethod](http://www.youtube.com/watch?v=uCwrOpnyXeo) `LISTEN TO ME VERY CAREFULLY`
+[DeclareMethod](http://www.youtube.com/watch?v=uCwrOpnyXeo) `I BIMS 1 METHODE`
 
-[NonVoidMethod](http://www.youtube.com/watch?v=WANa9Oku-JM) `GIVE THESE PEOPLE AIR`
+[NonVoidMethod](http://www.youtube.com/watch?v=WANa9Oku-JM) `I BIMS KEIN VOID`
 
-[MethodArguments](http://www.youtube.com/watch?v=FWmH9ylqYYQ) `I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE`
+[MethodArguments](http://www.youtube.com/watch?v=FWmH9ylqYYQ) `GIB MIR 1`
 
-[Return](http://www.youtube.com/watch?v=-YEG9DgRHhA) `I'LL BE BACK`
+[Return](http://www.youtube.com/watch?v=-YEG9DgRHhA) `I HAN 1 RÜCKGABE FÜR DI`
 
-[EndMethodDeclaration](http://www.youtube.com/watch?v=Hhm7aWp8gvc) `HASTA LA VISTA, BABY`
+[EndMethodDeclaration](http://www.youtube.com/watch?v=Hhm7aWp8gvc) `I BIMS NIMMER 1 METHODE`
 
-[CallMethod](http://www.youtube.com/watch?v=HGhP3p6lI3U) `DO IT NOW`
+[CallMethod](http://www.youtube.com/watch?v=HGhP3p6lI3U) `LAUF`
 
-[AssignVariableFromMethodCall](http://www.youtube.com/watch?v=HkkibBYm2WI) `GET YOUR ASS TO MARS`
+[AssignVariableFromMethodCall](http://www.youtube.com/watch?v=HkkibBYm2WI) `GIB MIR 1 WERT VONG 1 MEHTODE`
 
-[DeclareInt](http://www.youtube.com/watch?v=PZwwqjcEDUQ) `HEY CHRISTMAS TREE`
+[DeclareInt](http://www.youtube.com/watch?v=PZwwqjcEDUQ) `1 KURZER`
 
-[SetInitialValue](http://www.youtube.com/watch?v=lwqzA6F7nws) `YOU SET US UP`
+[SetInitialValue](http://www.youtube.com/watch?v=lwqzA6F7nws) `VONG WERT HER`
 
-[BeginMain](http://www.youtube.com/watch?v=TKTL2EDTFSo) `IT'S SHOWTIME`
+[BeginMain](http://www.youtube.com/watch?v=TKTL2EDTFSo) `I BIMS`
 
-[EndMain](http://www.youtube.com/watch?v=iy_BBBGBpqA) `YOU HAVE BEEN TERMINATED`
+[EndMain](http://www.youtube.com/watch?v=iy_BBBGBpqA) `I BIMS NIMMER`
 
-[Print](http://www.youtube.com/watch?v=dQ6m8ztEzfA) `TALK TO THE HAND`
+[Print](http://www.youtube.com/watch?v=dQ6m8ztEzfA) `RED MIT DEM KOMPUTER`
 
-[ReadInteger](https://www.youtube.com/watch?v=1mC9eOqsyTg) `I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY`
+[Read](https://www.youtube.com/watch?v=1mC9eOqsyTg) `I KAN NED LESEN`
 
-[AssignVariable](http://www.youtube.com/watch?v=-9-Te-DPbSE) `GET TO THE CHOPPER`
+[AssignVariable](http://www.youtube.com/watch?v=-9-Te-DPbSE) `ÜBERSCHREIB MI`
 
-[SetValue](http://www.youtube.com/watch?v=RrPXRkJ_P90) `HERE IS MY INVITATION`
+[SetValue](http://www.youtube.com/watch?v=RrPXRkJ_P90) `MIT DEM HIER VONG VALUE HER`
 
-[EndAssignVariable](http://www.youtube.com/watch?v=rk9WHasIZk0) `ENOUGH TALK`
+[EndAssignVariable](http://www.youtube.com/watch?v=rk9WHasIZk0) `I BIMS ÜBERSCHRIEBEN`
 
-[ParseError](http://www.youtube.com/watch?v=oGcRTJK43OM) `WHAT THE FUCK DID I DO WRONG`
+[ParseError](http://www.youtube.com/watch?v=oGcRTJK43OM) `I HAN WAS FALSCH GEMACHT`
