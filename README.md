@@ -1,4 +1,4 @@
-# ArnoldC
+# VongSprech
 
 Programmiersprache basierend auf VongSprech
 
